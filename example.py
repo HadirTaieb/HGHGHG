@@ -1,1 +1,1 @@
-master branch est la branch de code source
+une partie de code source
